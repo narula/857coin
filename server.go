@@ -4,7 +4,7 @@ import (
 	"flag"
 	"runtime"
 
-	"./server"
+	"github.com/narula/857coin/server"
 )
 
 var (
